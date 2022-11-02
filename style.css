@@ -1,0 +1,31 @@
+body {
+    font-size: 15 px;
+}
+h1{
+    font-size: 30px;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    font-size: 25px;
+}
+h4 {
+    font-size: 25px;
+}
+.colorlavender {
+    color:rgb(119, 152, 214);
+}
+#coloraliceblue a
+{
+    color: rgb(47, 43, 105);
+}
+a{
+    color: green;
+}
+.link1 {
+color: blue;
+}
+.link2 {
+    color: rgb(0, 255, 115);
+    }
