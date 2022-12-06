@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.header {
+margin: 0 auto;
+width: 1170px;
+padding: 10px 0;
+}
+.header-logo {
+margin-right: 14px;
+display: inline-block;
+height: auto;
+}
+.tel{
+    margin-right: 187px;
+    font-family: "Muller";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    
+}
+.lk{
+    text-align-last: right;
+    margin-right: auto;
+    color: #CC9933;
+    padding-left: 21px;
+    background-image: url();
+    background-position: left center;
+    background-repeat: no-repeat;
+    font-family: "Muller";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
